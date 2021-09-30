@@ -1,0 +1,53 @@
+* STL Function                                                       :drill:
+  SCHEDULED: <2021-10-03 Sun>
+  :PROPERTIES:
+  :ID:       4d1fa67c-c91e-4b80-93eb-a3b2a47fc661
+  :DRILL_LAST_INTERVAL: 4.14
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:07]
+  :END:
+  What function do you use to add an element to a vector?
+
+** Answer
+   <vector_name>.push_back(<element>);
+
+* String to int                                                       :drill:
+  SCHEDULED: <2021-10-03 Sun>
+  :PROPERTIES:
+  :ID:       34b33906-7909-4b9f-a4c8-e0043b7a9df3
+  :DRILL_LAST_INTERVAL: 4.14
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:12]
+  :END:
+  How do you transform an string to an int
+
+** Answer
+   atoi(<string>);
+
+* String to double                                                    :drill:
+  SCHEDULED: <2021-10-03 Sun>
+  :PROPERTIES:
+  :ID:       7ad796ac-d2ef-454b-82e1-35dc55d90cca
+  :DRILL_LAST_INTERVAL: 4.14
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:12]
+  :END:
+  How do you transform a string to a double
+
+** Answer
+   atod(<string>);

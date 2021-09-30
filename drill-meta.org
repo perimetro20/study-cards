@@ -1,0 +1,90 @@
+* Quality level                                                       :drill:
+  SCHEDULED: <2021-10-03 Sun>
+  :PROPERTIES:
+  :ID:       162a71b7-4250-4849-b905-19be0eaf9fdd
+  :DRILL_LAST_INTERVAL: 4.14
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:23]
+  :END:
+  What is the range for Quality in org-drill
+
+** Answer
+   0 to 5
+
+* Quality Level 0
+** Label   :drill:
+   SCHEDULED: <2021-10-03 Sun>
+   :PROPERTIES:
+   :ID:       ed2f7ff9-4fb5-45b2-84a6-e739a07d2b76
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:23]
+   :END:
+   What is the SuperMemo label for Quality 0?
+
+*** Answer
+    NULL
+
+** Failure :drill:
+   SCHEDULED: <2021-10-03 Sun>
+   :PROPERTIES:
+   :ID:       3c37180e-085c-480a-8979-e9c7c471b2fe
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:22]
+   :END:
+   Does quality level 0 represent failure?
+
+*** Answer
+    Yes
+
+** Meaning :drill:
+   SCHEDULED: <2021-10-03 Sun>
+   :PROPERTIES:
+   :ID:       21494209-6b59-4caf-8a6f-d792341c8c88
+   :DRILL_LAST_INTERVAL: 4.0
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 4.0
+   :DRILL_EASE: 2.5
+   :DRILL_LAST_QUALITY: 4
+   :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:23]
+   :END:
+   What does quality level 0 mean?
+
+*** Answer
+    Wrong, and the answer is unfamiliar when you see it.
+
+* Quality help                                                        :drill:
+  SCHEDULED: <2021-10-03 Sun>
+  :PROPERTIES:
+  :ID:       503851f9-1b5e-41c7-897e-17823bef1e63
+  :DRILL_LAST_INTERVAL: 4.14
+  :DRILL_REPEATS_SINCE_FAIL: 2
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 0
+  :DRILL_AVERAGE_QUALITY: 5.0
+  :DRILL_EASE: 2.6
+  :DRILL_LAST_QUALITY: 5
+  :DRILL_LAST_REVIEWED: [2021-09-29 Wed 19:22]
+  :END:
+  How to check what the numbers for quality signify?
+
+** Answer
+   Press ? at the prompt
